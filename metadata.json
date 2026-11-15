@@ -1,0 +1,6 @@
+{
+  "name": "The Shared Kitchen Reset",
+  "description": "A practical 7-day ebook that teaches people how to eat healthier in a shared household without disrupting routines or creating food conflicts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
